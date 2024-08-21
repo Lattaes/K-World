@@ -1,0 +1,289 @@
+
+
+@media (min-width: 0px) and (max-width: 575.98px) { 
+    .navbar-brand
+    {
+        font-size: 18px !important;
+    }
+    .kworld-padding-left
+    {
+        padding-left: 5px;
+    }
+    .kworld-padding-right
+    {
+        padding-right: 25px;
+    }
+    .kworld-dropdown-box
+    {
+        display: flex;
+    }
+    .kworld-nav-item
+    {
+        display: none;
+    }
+    .kworld-dropdown-icon
+    {
+        font-size: 22px;
+    }
+    .right i
+    {
+        font-size: 20px;
+        color: white;
+        padding: 5px;
+    }
+    .carousel-caption
+    {
+        bottom: 10px;
+        left: -26px;
+    }
+    .carousel-caption h5
+    {
+        font-weight: 600;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .carousel-caption p
+    {
+        display: none;
+    }
+    .carousel-caption .btn-play
+    {
+        font-size: 8px;
+        padding: 5px 10px;
+    }
+    .carousel-caption .btn-more
+    {
+        font-size: 8px;
+        padding: 5px 10px;
+    }
+    .search-bar .dropdown-menu
+    {
+        width: 100px;   
+    }
+    .dropdown-menu .form-control
+    {
+        height: 22px;
+    }
+    
+  }
+
+  @media (min-width: 576px) and (max-width: 767.98px) { 
+    .kworld-padding-left
+    {
+        padding-left: 15px;
+    }
+    .kworld-padding-right
+    {
+        padding-right: 15px;
+    }
+    .navbar-brand
+    {
+        font-size: 20px !important;
+    }
+    .kworld-padding-left
+    {
+        padding-left: 5px;
+    }
+    .kworld-padding-right
+    {
+        padding-right: 25px;
+    }
+    .kworld-dropdown-box
+    {
+        display: flex;
+    }
+    .kworld-nav-item
+    {
+        display: none;
+    }
+    .kworld-dropdown-icon
+    {
+        font-size: 24px;
+    }
+    .right i
+    {
+        font-size: 20px;
+        color: white;
+        padding: 5px;
+    }
+    .carousel-caption
+    {
+        bottom: 50px;
+        left: -26px;
+    }
+    .carousel-caption h5
+    {
+        font-weight: 600;
+        font-size: 28px;
+        text-transform: uppercase;
+    }
+    .carousel-caption p
+    {
+        display: none;
+    }
+    .carousel-caption .btn-play
+    {
+        font-size: 10px;
+    }
+    .carousel-caption .btn-more
+    {
+        font-size: 10px;
+
+    }
+    .search-bar .dropdown-menu
+    {
+        width: 180px;   
+    }
+    .dropdown-menu .form-control
+    {
+        height: 28px;
+    }
+    
+   
+  }
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .kworld-padding-left
+    {
+        padding-left: 15px;
+    }
+    .kworld-padding-right
+    {
+        padding-right: 15px;
+    }
+    .kworld-dropdown-box
+    {
+        display: flex;
+    }
+    .kworld-nav-item
+    {
+        display: none;
+    }
+    .kworld-dropdown-icon
+    {
+        font-size: 30px;
+        margin-top: 1px;
+    }
+    .carousel-caption
+    {
+        bottom: 60px;
+    }
+    .carousel-caption h5
+    {
+        font-weight: 600;
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 25px;
+        margin-left: 18px;
+    }
+    .carousel-caption p
+    {
+        width: 60%;
+        margin-left: 18px;
+        line-height: 1.6;
+        font-family: var(--useFont);
+        font-size: 12px;
+    }
+    .carousel-caption .btn-slide
+    {
+        margin-left: 10px;
+    }
+    .carousel-caption .btn-play
+    {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .carousel-caption .btn-more
+    {
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+  }
+
+  @media (min-width: 992px) and (max-width: 1199.98px)
+  {
+    
+    .carousel-caption
+    {
+        bottom: 100px;
+    }
+    .carousel-caption h5
+    {
+        font-weight: 600;
+        font-size: 34px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 25px;
+        margin-left: 48px;
+    }
+    .carousel-caption p
+    {
+        width: 50%;
+        margin-left: 48px;
+        line-height: 1.6;
+        font-family: var(--useFont);
+        font-size: 12px;
+    }
+    .carousel-caption .btn-slide
+    {
+        margin-left: 42px;
+    }
+    .carousel-caption .btn-play
+    {
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .carousel-caption .btn-more
+    {
+        font-size: 12px;
+        font-weight: 500;
+    }
+  }
+
+  @media (min-width: 1200px) and (max-width: 1300px)
+  {
+    .kworld-padding-left
+    {
+        padding-left: 15px;
+    }
+    .kworld-padding-right
+    {
+        padding-right: 25px;
+    }
+    .carousel-caption
+    {
+        bottom: 100px;
+    }
+    .carousel-caption h5
+    {
+        font-weight: 600;
+        font-size: 36px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 25px;
+        margin-left: 20px;
+    }
+    .carousel-caption p
+    {
+        width: 50%;
+        margin-left: 20px;
+        line-height: 1.6;
+        font-family: var(--useFont);
+        font-size: 14px;
+    }
+    .carousel-caption .btn-slide
+    {
+        margin-left: 15px;
+    }
+    .carousel-caption .btn-play
+    {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .carousel-caption .btn-more
+    {
+        font-size: 14px;
+        font-weight: 500;
+    }
+  }
